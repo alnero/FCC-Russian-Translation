@@ -73,8 +73,13 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Заголовок с использованием элемента h2",
+      "descriptionRu": [
+        "Создайте второй HTML <code>элемент</code>, для этого ниже элемента <code>h1</code> содержащего текст \"Hello World\" добавьте тэг <code>h2</code> с текстом \"CatPhotoApp\".",
+        "Элемент <code>h2</code>, который вы запишите, создаст соответствующий элемент <code>h2</code> на веб-странице.",
+        "Это укажет браузеру, как необходимо отображать текст, содержащийся внутри элемента.",
+        "Элементы <code>h2</code> по размеру чуть меньше чем элементы <code>h1</code>. Существуют также элементы <code>h3</code>, <code>h4</code>, <code>h5</code> и <code>h6</code>."
+      ],
       "nameEs": "Waypoint: Encabezado con el elemento h2",
       "descriptionEs": [
         "Agrega una etiqueta <code>h2</code> que diga \"CatPhotoApp\" para crear un segundo <code>elemento</code> HTML debajo de tu elemento <code>h1</code> \"Hello World\".",
