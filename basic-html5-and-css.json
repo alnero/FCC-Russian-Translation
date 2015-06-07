@@ -147,8 +147,11 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Визуально разделите элементы используя Line Breaks",
+      "descriptionRu": ["Добавьте <code>br</code> на вашу страницу, желательно между двух других элементов",
+        "<code>br</code> элемент, так же известен как \"line break\"(разрыв строки) этот элемент можно сделать воспользовавшись тегом <code>&#60;br&#62</code>.",
+        "Заметьте что у <code>&#60;br&#62</code> нету закрывающего тега. это \"Самозакрывающийся\" элемент.",
+        "Вы столкнетесь с другими самозакрывающимися элементами в ближайшее время."],
       "nameEs": "Waypoint: Separa Elementos Visualmente con Saltos de Línea",
       "descriptionEs": [
         "Agrega un <code>salto de línea</code> entre los elementos <code>&#60;h2&#62</code> y <code>&#60;p&#62</code>.",
