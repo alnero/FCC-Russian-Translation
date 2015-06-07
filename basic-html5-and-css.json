@@ -205,7 +205,7 @@
         "Раскомментируйте элементы <code>h1</code>, <code>h2</code> и <code>p</code>.",
         "Комментарии - это примечания в коде, которые никак не влияют на его работу.",
         "А также это удобный способ исключить код из потока исполнения, при этом не удаляя его.",
-        "Комментарий в HTML начинается с конструкции <code>&#60;!--</code>, а заканчивается конструкцией <code>--&#62;</code>.",
+        "Комментарий в HTML начинается с конструкции <code>&#60;!--</code>, а заканчивается конструкцией <code>--&#62;</code>."
       ],
       "nameEs": "Waypoint: Quitar comentarios HTML",
       "descriptionEs": [
@@ -248,8 +248,12 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Добавьте комментарий в HTML код",
+      "descriptionRu": [
+        "Закомментируйте элементы <code>h1</code> и <code>p</code>, не затронув при этом элемент <code>h2</code>.",
+        "Помните, что комментарий начинается с конструкции <code>&#60;!--</code> и заканчивается конструкцией <code>--&#62;</code>.",
+        "В данном случае конец комментария должен располагаться до начала элемента <code>h2</code>."
+      ],
       "nameEs": "Waypoint: Comenta en HTML",
       "descriptionEs": [
         "Comenta el elemento <code>h1</code> y el elemento <code>p</code>, pero deja sin comentar el elemento <code>h2</code>.",
