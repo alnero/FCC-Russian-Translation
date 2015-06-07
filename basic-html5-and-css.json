@@ -200,8 +200,13 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Удалите комментарий в HTML коде",
+      "descriptionRu": [
+        "Раскомментируйте элементы <code>h1</code>, <code>h2</code> и <code>p</code>.",
+        "Комментарии - это примечания в коде, которые никак не влияют на его работу.",
+        "А также это удобный способ исключить код из потока исполнения, при этом не удаляя его.",
+        "Комментарий в HTML начинается с конструкции <code>&#60;!--</code>, а заканчивается конструкцией <code>--&#62;</code>.",
+      ],
       "nameEs": "Waypoint: Quitar comentarios HTML",
       "descriptionEs": [
         "Quitar el comentario a los elementos <code>h1</code>, <code>h2</code> y <code>p</code>.",
