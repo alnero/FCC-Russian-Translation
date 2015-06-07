@@ -113,8 +113,12 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Сообщите информацию используя элемент Paragraph",
+      "descriptionRu": [
+        "Следующим после элемента <code>h2</code> добавьте элемент <code>p</code> с текстом \"Hello Paragraph\".",
+        "На сайтах элементы <code>p</code> преимущественно используются для создания параграфов, содержащих текст среднего размера. p - это сокращение от \"paragraph\".",
+        "Элемент <code>p</code> создается следующим образом: <code><p>I'm a p tag!</p></code>."
+      ],
       "nameEs": "Waypoint: Informa con el Elemento Párrafo",
       "descriptionEs": [
         "Crea un elemento párrafo debajo de tu elemento h2, y dale el texto \"Hello Paragraph\". Apenas escribas la etiqueta de apertura <code>&#60;p&#62;</code>, una de nuestras pruebas pasarán (ya que ésta es HTML válido). Asegúrate de cerrar el elemento agregando la etiqueta de cierre <code>&#60;/p&#62;</code>.",
@@ -148,10 +152,12 @@
       "nameFr": "",
       "descriptionFr": [],
       "nameRu": "Waypoint: Визуально разделите элементы используя Line Breaks",
-      "descriptionRu": ["Добавьте <code>br</code> на вашу страницу, желательно между двух других элементов",
+      "descriptionRu": [
+        "Добавьте <code>br</code> на вашу страницу, желательно между двух других элементов.",
         "<code>br</code> элемент, так же известен как \"line break\"(разрыв строки) этот элемент можно сделать воспользовавшись тегом <code>&#60;br&#62</code>.",
         "Заметьте что у <code>&#60;br&#62</code> нету закрывающего тега. это \"Самозакрывающийся\" элемент.",
-        "Вы столкнетесь с другими самозакрывающимися элементами в ближайшее время."],
+        "Вы столкнетесь с другими самозакрывающимися элементами в ближайшее время."
+      ],
       "nameEs": "Waypoint: Separa Elementos Visualmente con Saltos de Línea",
       "descriptionEs": [
         "Agrega un <code>salto de línea</code> entre los elementos <code>&#60;h2&#62</code> y <code>&#60;p&#62</code>.",
