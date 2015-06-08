@@ -333,8 +333,11 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Удалите HTML Элементы",
+      "descriptionRu": [
+        "Удалите <code>h1</code> и <code>br</code> элементы чтобы упростить наш обзор",
+        "У нашего телефона нету достаточно вертикального пространства.",
+        "Давайте уберем ненужные элементы чтобы мы могли начать строить наш CatPhotoApp."],
       "nameEs": "Waypoint: Borra elementos HTML",
       "descriptionEs": [
         "Borra los elementos h1 y br para simplificar nuestra vista.",
@@ -367,8 +370,13 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Измените цвет текста",
+      "descriptionRu": [
+        "Измените стиль вашего <code>h2</code> элемента так, чтобы текст стал красным.",
+        "Мы сможешь сделать это изменив \"Стиль\" вашего <code>h2</code> элемента.",
+        "Стиль ответственный за цвет элементов это \"color\".",
+        "Вот пример того, как вы бы изменили изменили цвет вашего <code>h2</code> элемента на синий: <code>&#60;h2 style=\"color: blue\"&#62;CatPhotoApp&#60;/h2&#62;</code>."
+      ],
       "nameEs": "Waypoint: Cambia el color del texto",
       "descriptionEs": [
         "Cambia el estilo del elemento <code>h2</code> de manera que el color de su texto sea rojo.",
@@ -408,8 +416,16 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Используйте CSS селектор для того, чтобы приставить стиль к элементу.",
+      "descriptionRu": [
+        "Удалите атрибут стиля в <code>h2</code> элементе и вместо этого сделайте CSS <code>style</code> элемент. Добавьте необходимый CSS чтобы изменить <code>h2</code> элемент в синий.",
+        "В CSS существуют сотни \"атрибутов\" которые вы можете использовать чтобы изменить вид элементов на вашей странице.",
+        "Когда вы ввели <code>&#60;h2 style=\"color: red\"&#62;CatPhotoApp&#60;/h2&#62;</code>, вы дали исключительно этому <code>h2</code> элементу \"встроенный стиль\".",
+        "Это один из способов изменить стиль элемента, но лучший способ — это использование каскадной таблицы стилей (Cascading Style Sheets (CSS)).",
+        "В начале вашего кода, сделайте <code>style</code> элемент. Пример: <code>&#60;style&#62;&#60;/style&#62;</code>.",
+        "Внутри style элемента, вы можете сделать \"CSS селектор\" для всех <code>h2</code> элементов. На пример, Если вы хотите чтобы все <code>h2</code> элементы были красными, ваш style элемент будет выглядеть вот так: <code>&#60;style&#62;h2 {color: red;}&#60;/style&#62;</code>.",
+        "Запомните, это важно чтобы у вас были открывающие и закрывающие фигурные скобки (<code>{</code> и <code>}</code>) вокруг каждого стиля элементов. Вы также должны быть уверенны что стили элементов находятся внутри открывающихся и закрывающихся style тегов. И в самом конце не забудьте поставить точку с запятой."
+      ],
       "nameEs": "Waypoint: Usa selectores CSS para dar estilo a los elementos",
       "descriptionEs": [
         "Borra el atributo <code>style</code> de tu elemento <code>h2</code> y escribe el CSS para hacer todos los elementos <code>h2</code> de color azul.",
