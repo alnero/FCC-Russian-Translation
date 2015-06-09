@@ -291,8 +291,14 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Заполните макет страницы временным текстом",
+      "descriptionRu": [
+        "Замените текст внутри элемента <code>p</code>, используйте предоставленный отрывок из \"Kitty Ipsum\".",
+        "Веб-разработчики как правило используют текст \"Lorem Ipsum\" в качестве временного наполнителя. Название, \"Lorem Ipsum\" - это первые два слова из этого текста, а сам текст - это отрывок из трактата древнеримского философа Цицерона.",
+        "С XVI века \"Lorem Ipsum\" используется в качестве текста-заполнителя составителями печатных форм, эта традиция продолжается в сети.",
+        "Ну что ж, пять столетий это довольно долго, и поскольку мы создаем CatPhotoApp давайте используем текст \"Kitty Ipsum\"!",
+        "Вот несколько фраз из этого текста, скопируйте их и используйте там где необходимо: <code>Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</code>"
+      ],
       "nameEs": "Waypoint: Llena espacios con texto de relleno",
       "descriptionEs": [
         "Cambia el texto en el elemento <code>p</code> para usar las primeras palabras del texto <code>Kitty Ipsum</code>.",
