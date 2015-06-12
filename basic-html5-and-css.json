@@ -527,8 +527,12 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Примените CSS класс к нескольким элементам",
+      "descriptionRu": [
+        "Примените класс \"red-text\" к элементам <code>h2</code> и <code>p</code>.",
+        "Помните, чтобы назначить элементу класс необходимо внутри открывающего тэга написать: <code>class=\"your-class-here\"</code>.",
+        "А также не забывайте, в CSS селекторы класса начинаются с точки: <code>.red-text { color: blue; }</code>, а при добавлении класса к HTML элементу точка не ставится: <code>&#60;h2 class=\"blue-text\"&#62;CatPhotoApp&#60;h2&#62;</code>."
+      ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
@@ -566,8 +570,13 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Поменяйте у элемента размер шрифта",
+      "descriptionRu": [
+        "Создайте еще один элемент <code>p</code>. Затем, внутри тэга <code>&#60;style&#62;</code>, назначьте всем элементам <code>p</code> \"font-size\" равным 16 пикселям.",
+        "CSS атрибут, который определяет размер шрифта элемента называется \"font-size\": <code>h1 { font-size: 30px; }</code>.",
+        "Сначала создайте второй элемент <code>p</code> с текстом Kitty Ipsum: <code>Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</code>",
+        "Постарайтесь догадаться как установить размер шрифта равным 16 пикселям (<code>16px</code>) для обоих элементов <code>p</code>. Это можно сделать внутри тэга <code>&#60;style&#62;</code>, в котором уже есть класс \"red-text\"."
+      ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
@@ -606,10 +615,11 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "Waypoint: Изменить Шрифт Элемента",
-      "descriptionRu": ["Сделайте так чтобы все ваши <code>p</code> элементы использовали шрифт \"Monospace\".",
-        "Вы можете изменить шрифт используя \"font-family\" атрибут.",
-        "Например, если вы хотите использовать \"Sans-serif\" шрифт в <code>h2</code> элементе, вы должны воспользоваться следующим CSS кодом: <code>h2 { font-family: Sans-serif; }</code>."
+      "nameRu": "Waypoint: Измените шрифт элемента",
+      "descriptionRu": [
+        "Сделайте так чтобы все элементы <code>p</code> использовали шрифт \"Monospace\".",
+        "Шрифт можно установить с помощью атрибута \"font-family\".",
+        "Например, если вы хотите использовать шрифт \"Sans-serif\" в элементе <code>h2</code>, примените следующее CSS правило: <code>h2 { font-family: Sans-serif; }</code>."
       ],
       "nameEs": "",
       "descriptionEs": [],
@@ -654,13 +664,14 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "Waypoint: Используем Google Шрифты",
-      "descriptionRu": ["Воспользуйтесь <code>font-family</code> кодом и \"Lobster\" шрифтом, и примените их к <code>h2</code> элементу.",
-        "Сперва, вам нужно сделать \"запрос\" в Google чтобы получить \"Lobster\" шрифт и потом загрузить его в ваш HTML.",
-        "Скопируйте следующий фрагмент кода и вставьте его в ваш редактор кода:",
+      "nameRu": "Waypoint: Используйте шрифт от Google",
+      "descriptionRu": [
+        "Воспользуйтесь атрибутом <code>font-family</code> и установите элементу <code>h2</code> шрифт \"Lobster\".",
+        "Сначала необходимо послать к Google \"запрос\" и загрузить шрифт \"Lobster\" в ваш HTML код.",
+        "Для этого скопируйте следующий фрагмент кода в редактор:",
         "<code>&#60;link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'&#62;</code>.",
-        "И сейчас вы можете использовать \"Lobster\" шрифт как атрибут к <code>font-family</code>  на ваш <code>h2</code> элемент."
-        ],
+        "Теперь в атрибуте <code>font-family</code> для элемента <code>h2</code> можно указать шрифт \"Lobster\"."
+      ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
@@ -708,13 +719,14 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "Waypoint: Конкретизируйте Как Ваши Шрифты Должны Меняться ",
-      "descriptionRu": ["Используйте \"Lobster\" шрифт как ваш основной для <code>h2</code> элемента, но сделайте \"Monospace\" вторичным шрифтом если \"Lobster\" шрифт не доступен.",
-        "Вы можете поставить \"Lobster\" шрифт <code>h2</code> элемента как основной, и допустить чтобы он сменился на другой, когда \"Lobster\" не доступен",
-        "Например, если вы хотите чтобы ваш элемент использовал \"Helvetica\" шрифт, но так же изменился на \"Sans-Serif\" шрифт когда \"Helvetica\" не доступен, вы можете использовать CSS стиль: <code>p { font-family: Helvetica, Sans-Serif; }</code>.",
-        "Во всех браузерах есть несколько базовых шрифтов. Они в себя включают: \"Monospace\", \"Serif\" и \"Sans-Serif\". Попробуйте поставить на ваш <code>h2</code> элемент шрифт \"Lobster\" и чтобы он менялся на \"Monospace\".",
-        "А теперь закомментируйте ваш запрос к Google шрифтам, так чтобы ваш \"Lobster\" шрифт престал быть доступным. Заметьте как он изменился на  \"Monospace\" шрифт."
-        ],
+      "nameRu": "Waypoint: Определите порядок изменения шрифтов",
+      "descriptionRu": [
+        "Сделайте \"Lobster\" основным шрифтом для элемента <code>h2</code>, при этом укажите шрифт \"Monospace\" в качестве резервного если \"Lobster\" будет не доступен.",
+        "В элементе  <code>h2</code> вы можете сделать основным шрифтом \"Lobster\", а если его нет в наличии, допустить чтобы он сменился на другой.",
+        "Например, вы назначаете элементу шрифт \"Helvetica\", однако, если он не доступен хотите использовать \"Sans-Serif\", тогда примените следующий CSS стиль: <code>p { font-family: Helvetica, Sans-Serif; }</code>.",
+        "Во всех браузерах есть несколько базовых шрифтов: \"Monospace\", \"Serif\" и \"Sans-Serif\". Попробуйте назначить элементу <code>h2</code> шрифт \"Lobster\", а \"Monospace\" сделайте резервным.",
+        "Теперь закомментируйте ваш запрос к шрифтам Google, так чтобы \"Lobster\" стал не доступен. Заметьте как он изменился на  \"Monospace\"."
+      ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
