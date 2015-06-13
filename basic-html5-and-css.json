@@ -838,8 +838,13 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Добавьте на веб-страницу картинки",
+      "descriptionRu": [
+        "С помощью элемента <code>img</code> добавьте на страницу вот это изображение <code>http://bit.ly/fcc-kittens</code>.",
+        "Элемент <code>img</code> используется  для добавления на сайт изображений, URL картинки указывается в атрибуте <code>src</code> этого элемента.",
+        "Вот пример: <code>&#60img src=\"www.your-image-source.com/your-image.jpg\"/&#62</code>. Обратите внимание, что в большинстве случаев элемент <code>img</code> является самозакрывающимся.",
+        "Попробуйте добавить вот это изображение: <code>http://bit.ly/fcc-kittens</code>."
+      ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
@@ -887,8 +892,12 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Измените размер картинок",
+      "descriptionRu": [
+        "Создайте класс <code>smaller-image</code>, с его помощью установите картинке ширину 100 пикселей.",
+        "Для изменения ширины элемента применяется CSS атрибут <code>width</code>. Как и со шрифтами используем в качестве единиц измерения пиксели(px).",
+        "Вот пример класса под названием \"larger-image\", он устанавливает элементу ширину в 500 пикселей: <code>&#60;style&#62; .larger-image { width: 500px; } &#60;/style&#62;</code>."
+      ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
