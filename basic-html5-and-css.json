@@ -1214,8 +1214,13 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Поместите якорный элемент внутрь параграфа",
+      "descriptionRu": [
+        "Поместите элемент <code>a</code> внутрь элемента <code>p</code>. Текст параграфа должен быть таким: \"click here for cat photos\", и только \"cat photos\" должен быть текстом ссылки.",
+        "Посмотрим еще раз как выглядит элемент <code>a</code>:",
+        "<img class='img-responsive' alt='a diagram of how anchor tags are composed with the same text as on the following line' src='https://www.evernote.com/l/AHSaNaepx_lG9LhhPkVYmagcedpmAeITDsQB/image.png'/>",
+        "Дополнительный пример: <code>&#60;p&#62;Here's a &#60;a href='http://freecodecamp.com'&#62; link to Free Code Camp&#60;/a&#62; for you to follow.&#60;/p&#62;</code>."
+      ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
