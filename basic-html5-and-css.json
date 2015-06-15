@@ -1015,8 +1015,12 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Закруглите углы применив border-radius",
+      "descriptionRu": [
+        "Установите фотографии котенка <code>border-radius</code> в 10 пикселей.",
+        "Сейчас у изображения котенка острые углы. Их можно закруглить, используя CSS атрибут <code>border-radius</code>.",
+        "<code>border-radius</code> можно задавать в пикселях. Указанное значение влияет на степень закругления углов. Добавьте этот атрибут в класс <code>thick-green-border</code>, в качестве значения укажите 10 пикселей."
+      ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
