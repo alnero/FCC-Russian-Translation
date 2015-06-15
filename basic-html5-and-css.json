@@ -1142,8 +1142,13 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Добавьте ссылку на внешнюю страницу с помощью якорного элемента",
+      "descriptionRu": [
+        "Создайте элемент <code>a</code>, т.н. \"элемент-якорь\"(anchor), который добавляет ссылку на внешнюю страницу http://catphotoapp.com, используйте \"cat photos\" в качестве текста ссылки или т.н. \"текста якоря\".",
+        "Вот так выглядит элемент <code>a</code>. В данном примере он используется внутри параграфа, поэтому ссылка появится в середине предложения.",
+        "<img class='img-responsive' alt='a diagram of how anchor tags are composed with the same text as on the following line' src='https://www.evernote.com/l/AHSaNaepx_lG9LhhPkVYmagcedpmAeITDsQB/image.png'/>",
+        "И еще один пример: <code>&#60;p&#62;Here's a &#60;a href='http://freecodecamp.com'&#62; link to Free Code Camp&#60;/a&#62; for you to follow.&#60;/p&#62;</code>."
+      ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
