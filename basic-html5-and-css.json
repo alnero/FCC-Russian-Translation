@@ -1077,8 +1077,11 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Сделайте изображения круглыми, используя border-radius",
+      "descriptionRu": [
+        "В атрибуте <code>border-radius</code> для изображения котенка укажите в качестве значения 50%.",
+        "В дополнение к пикселям значения <code>border-radius</code> можно указывать в процентах."
+      ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
