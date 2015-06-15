@@ -952,8 +952,12 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Добавьте рамки вокруг элементов",
+      "descriptionRu": [
+        "Создайте класс \"thick-green-border\", который добавляет к элементу зеленую рамку толщиной 10 пикселей и стилем \"solid\", и примените его к фотографии котенка.",
+        "У рамок в CSS есть такие атрибуты как стиль, цвет и ширина.",
+        "Например, чтобы создать вокруг HTML элемента сплошную красную рамку толщиной 5 пикселей, используйте вот такой класс: <code>&#60;style&#62; .thin-red-border { border-color: red; border-width: 5px; border-style: solid; } &#60;/style&#62;</code>."
+      ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
