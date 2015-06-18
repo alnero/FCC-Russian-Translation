@@ -1711,8 +1711,12 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Добавим подсказку в тектстовое поле",
+      "descriptionRu": [
+        "Присвойте атрибуту <code>placeholder</code> элемента <code>input</code> значение \"cat photo URL\".",
+        "Ваша текстовая подсказка будет отображаться в текстовом поле <code>input</code> пока пользователь не введет в него текст.",
+        "Вы можете создать подсказку вот так: <code>&#60;input type='text' placeholder='this is placeholder text'&#62;</code>."
+      ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
