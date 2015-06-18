@@ -1634,8 +1634,12 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Создаем текствое поле",
+      "descriptionRu": [
+        "Теперь создадим веб форму. Создайте текстовое поле под вашим списком",
+        "Текстовое поле удобный способ получить данные от пользователя.",
+        "Можете создать одно вот так:<code>&#60;input type='text'&#62;</code>. Помните, что <code>input</code> самозакрывающиеся елементы."
+      ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
