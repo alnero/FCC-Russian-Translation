@@ -1876,8 +1876,12 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Добавим на форму кнопку для отправки данных",
+      "descriptionRu": [
+        "Добавим в ваш элемент <code>form</code> кнопку для отправки данных с типом \"submit\" и текстом \"Submit\"",
+        "Давайте добавим кнопку для отправки на вашу форму. Нажатие этой кнопки приведет к отправке дынных формы по URL указанному в атрибуте <code>action</code> вашей формы",
+        "Вот пример кнопки для отправки данных: <code>&#60;button type='submit'&#62;this button submits the form&#60;/button&#62;</code>."
+      ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
