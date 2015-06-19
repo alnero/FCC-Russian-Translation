@@ -1795,8 +1795,12 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Создадим форму",
+      "descriptionRu": [
+        "Поместите свое текстовое поле во внутрь элемента <code>form</code>. Добавьте атрибут <code>action=\"/submit-cat-photo\"</code> к элементу формы.",
+        "Вы можете создавать веб формы, которые передают данные серверу не используя ничего кроме HTML. Вы можете сделать это определив атрибут <code>action</code> в элементе <code>form</code>.",
+        "Например: <code>&#60;form action=\"/url-where-you-want-to-submit-form-data\"&#62;&#60;/form&#62;</code>."
+      ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
@@ -1872,8 +1876,12 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Добавим на форму кнопку для отправки данных",
+      "descriptionRu": [
+        "Добавим в ваш элемент <code>form</code> кнопку для отправки данных с типом \"submit\" и текстом \"Submit\"",
+        "Давайте добавим кнопку для отправки на вашу форму. Нажатие этой кнопки приведет к отправке дынных формы по URL указанному в атрибуте <code>action</code> вашей формы",
+        "Вот пример кнопки для отправки данных: <code>&#60;button type='submit'&#62;this button submits the form&#60;/button&#62;</code>."
+      ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
