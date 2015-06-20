@@ -2206,8 +2206,11 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Наведем порядок в вашей фроме с помощью переноса строк.",
+      "descriptionRu": [
+        "Приберитесь на форме добавив переносы строк",
+        "Запомните что вы можете добавить перенос строки с помощью элемента: <code>&#60;br&#62;</code>."
+      ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
