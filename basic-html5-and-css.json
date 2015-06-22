@@ -2054,7 +2054,7 @@
         "Радиокнопки являются одним из видов элемента <code>input</code>.",
         "Каждая отдельная кнопка должна быть помещена внутрь соответствующего ей элемента <code>label</code>.",
         "Все кнопки, относящиеся к одной группе, должны иметь один и тот же атрибут <code>name</code>.",
-        "Пример радиокнопки: <code>&#60;label&#62;&#60;input type='radio' name='indoor-outdoor'&#62; Indoor&#60;/label&#62;</code>.",
+        "Пример радиокнопки: <code>&#60;label&#62;&#60;input type='radio' name='indoor-outdoor'&#62; Indoor&#60;/label&#62;</code>."
       ],
       "nameEs": "",
       "descriptionEs": [],
