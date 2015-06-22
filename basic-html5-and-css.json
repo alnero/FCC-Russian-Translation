@@ -2747,8 +2747,12 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Установим разные значения полей для каждой стороны элемента",
+      "descriptionRu": [
+        "Зададим значения поля <code>padding</code> зеленого блока в 40 пикселей для верхней и левой стороны, а для нижней и правой - 20 пикселей.",
+        "Иногда вам необходимо настроить элемент так чтобы он имел различные значения свойства <code>padding</code> для каждой из его сторон.",
+        "CSS позволяет контролировать значение <code>padding</code> элемента для всех четырех сторон с помощью свойств <code>padding-top</code>, <code>padding-right</code>, <code>padding-bottom</code> и <code>padding-left</code>."
+      ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
@@ -2812,8 +2816,12 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Установим разные значения отступа для каждой стороны элемента",
+      "descriptionRu": [
+        "Зададим значения отступа <code>margin</code> зеленого блока в 40 пикселей для верхней и левой стороны, а для нижней и правой - 20 пикселей.",
+        "Иногда вам необходимо настроить элемент так чтобы он имел различные значения отступа <code>margin</code> для каждой из его сторон.",
+        "CSS позволяет контролировать значение <code>margin</code> элемента для всех четырех сторон с помощью свойств <code>margin-top</code>, <code>margin-right</code>, <code>margin-bottom</code> и <code>margin-left</code>."
+      ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
