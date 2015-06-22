@@ -2303,8 +2303,12 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Отметьте чекбокс и радиокнопку по умолчанию",
+      "descriptionRu": [
+        "Сделайте первую радиокнопку и первый чекбокс выделенными по умолчанию.",
+        "Предварительное выделение чекбокса или кнопки делается с помощью атрибута <code>checked</code>.",
+        "Чтобы назначить вариант по умолчанию, просто добавьте \"checked\" внутрь элемента <code>input</code>: <code>&#60;input type='radio' name='test-name' checked&#62;</code>."
+      ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
