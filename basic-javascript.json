@@ -76,9 +76,9 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "Waypoint: Выучите JavaScript For Loops (циклы со счётчиком)",
+      "nameRu": "Waypoint: Изучите цикл for в JavaScript",
       "descriptionRu": [
-		"Давайте узнаем побольше о циклах, которые используются практически во всех программах - \"For Loop\" (цикл For, со счётчиком) и \"While Loop\" (цикл While, с условием). Начнём с For Loop.",
+		"Давайте узнаем побольше о циклах, которые используются практически во всех программах - цикле for и цикле while. Начнём с цикла for.",
         "Перейдите к <a href='http://www.codecademy.com/courses/javascript-beginner-en-NhsaT/0/1' target='_blank'>http://www.codecademy.com/courses/javascript-beginner-en-NhsaT/0/1web</a> и выполните все упражнения в этом разделе.",
         "Не забудьте также пройти эту секцию: <a href='http://www.codecademy.com/courses/javascript-beginner-en-XEDZA/0/1' target='_blank'>http://www.codecademy.com/courses/javascript-beginner-en-XEDZA/0/1</a>."
 	  ],
@@ -102,7 +102,7 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "Waypoint: Выучите JavaScript While Loops (циклы с условием)",
+      "nameRu": "Waypoint: Изучите цикл while в JavaScript",
       "descriptionRu": [
 		"Перейдите к <a href='http://www.codecademy.com/courses/javascript-beginner-en-ASGIv/0/1' target='_blank'>http://www.codecademy.com/courses/javascript-beginner-en-ASGIv/0/1</a> и выполните все упражнения в этом разделе.",
         "Не забудьте также пройти эту секцию: <a href='http://www.codecademy.com/courses/javascript-beginner-en-mrTNH-6VIZ9/0/1' target='_blank'>http://www.codecademy.com/courses/javascript-beginner-en-mrTNH-6VIZ9/0/1</a>."
@@ -129,7 +129,7 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "Waypoint: Выучите Control Flow (поток выполнения)",
+      "nameRu": "Waypoint: Изучите Control Flow (поток выполнения)",
       "descriptionRu": [
 		"Большая часть человеческого мышления может быть разбита на Булеву алгебру. К счастью для нас, компьютеры "думают" таким же образом! Давайте научимся инструктировать компьютеры с помощью команд \"If\" и \"Else\".",
         "Мы также научимся некоторым дополнительным принципам потоков выполнения \"Control Flow\", например способам которые разрешат нам рано выходить из циклов.",
@@ -290,7 +290,7 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "Waypoint: Выучите Regular Expressions (Регулярные Выражения)",
+      "nameRu": "Waypoint: Изучите Regular Expressions (Регулярные Выражения)",
       "descriptionRu": [
 	  "Вы можете использовать Регулярные Выражения, или \"Regex\", для поиска и подстановки текста.",
         "Проверьте <a href='http://www.regexr.com' target='_blank'>http://www.regexr.com</a>. Это специальная песочница для экспериментов с Регулярными Выражениями.",
