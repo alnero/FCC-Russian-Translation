@@ -129,10 +129,10 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "Waypoint: Изучите Control Flow (поток выполнения)",
+      "nameRu": "Waypoint: Изучите Поток Выполнения",
       "descriptionRu": [
-		"Большая часть человеческого мышления может быть разбита на Булеву алгебру. К счастью для нас, компьютеры "думают" таким же образом! Давайте научимся инструктировать компьютеры с помощью команд \"If\" и \"Else\".",
-        "Мы также научимся некоторым дополнительным принципам потоков выполнения \"Control Flow\", например способам которые разрешат нам рано выходить из циклов.",
+	"Большую часть человеческих рассуждений можно классифицировать по правилам Булевой алгебры. К счастью для нас, компьютеры \"думают\" так же! Давайте научимся инструктировать компьютеры с помощью \"If\" и \"Else\" выражений.",
+        "Мы также узнаем о дополнительных правилах управления потоком выполнения, например способам досрочно прервать исполнение цикла.",
         "Перейдите к <a href='http://www.codecademy.com/courses/javascript-beginner-en-qDwp0/0/1' target='_blank'>http://www.codecademy.com/courses/javascript-beginner-en-qDwp0/0/1</a> и выполните все упражнения в этом разделе.",
         "Не забудьте также пройти эту секцию: <a href='http://www.codecademy.com/courses/javascript-beginner-en-ZA2rb/0/1' target='_blank'>http://www.codecademy.com/courses/javascript-beginner-en-ZA2rb/0/1</a>."
 	  ],
@@ -159,7 +159,7 @@
       "descriptionFr": [],
       "nameRu": "Waypoint: Создайте Список Контактов",
       "descriptionRu": [
-		"До этого момента вы работали в основном с числами и строками. Теперь мы перейдем к более сложным структурам данных,\"Arrays\" (массивы) и \"Objects\" (объекты).",
+	"До этого момента вы работали в основном с числами и строками. Теперь мы перейдем к более сложным структурам данных: массивам - \"Arrays\" и объектам - \"Objects\".",
         "Перейдите к <a href='http://www.codecademy.com/courses/javascript-beginner-en-9Sgpi/0/1' target='_blank'>http://www.codecademy.com/courses/javascript-beginner-en-9Sgpi/0/1</a> и выполните все упражнения в этом разделе.",
         "Не забудьте также пройти эту секцию: <a href='http://www.codecademy.com/courses/javascript-beginner-en-3bmfN/0/1' target='_blank'>http://www.codecademy.com/courses/javascript-beginner-en-3bmfN/0/1</a>."
 	  ],
@@ -246,11 +246,11 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "Waypoint: Откройте Chrome DevTools",
+      "nameRu": "Waypoint: Откройте для себя Chrome DevTools",
       "descriptionRu": [
-	    "Теперь настало время научиться самому мощному инструменту в вашем браузере - Chrome DevTools!",
-        "Если вы не используете, скачайте его отсюда: <a href='http://www.google.com/chrome/' target='_blank'>http://www.google.com/chrome/</a>. Хотя это правда, что у браузера Firefox есть инструмент Firebug, который очень похож на Chrome DevTools, мы будем использовать Chrome для этой задачи.",
-        "Обратите внимание что этот курс, совместного производства Google и Code School, технологически впечатляет но иногда глючит. Если вы столкнулись с багом, проигнорируйте его и продолжайте дальше.",
+	"Теперь настало время изучить самый мощный инструмент в вашем браузере - Chrome DevTools!",
+        "Если вы не пользуетесь браузером Chrome, то скачайте его отсюда: http://www.google.com/chrome/. Хотя у браузера Firefox есть инструмент Firebug, который очень похож на Chrome DevTools, в этом задании мы будем использовать Chrome.",
+        "Обратите внимание что этот курс, результат совместного производства Google и Code School, технологически впечатляет но иногда глючит. Если вы столкнулись с багом, проигнорируйте его и проходите курс дальше.",
         "Перейдите к <a href='http://discover-devtools.codeschool.com' target='_blank'>http://discover-devtools.codeschool.com</a>.",
         "Пройдите \"Chapter 1: Getting Started & Basic DOM and Styles\".",
         "Пройдите \"Chapter 2: Advanced DOM and Styles\".",
