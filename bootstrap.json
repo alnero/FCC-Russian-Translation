@@ -173,8 +173,12 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Выровняйте текст по центру, используя Bootstrap",
+      "descriptionRu": [
+        "Добавьте Bootstrap класс \"text-center\" к элементу <code>h2</code>.",
+        "Используя Bootstrap, можно выровнять заголовки по центру, чтобы они выглядели лучше. Все что нужно сделать - это добавить класс <code>text-center</code> к элементам <code>h1</code> и <code>h2</code>.",
+        "Помните, что к элементу можно добавить несколько классов указав их названия через пробел, как например здесь: <code>&#60h2 class=\"text-red text-center\"&#62your text&#60/h2&#62</code>."
+      ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
