@@ -264,7 +264,7 @@
       "descriptionFr": [],
       "nameRu": "Waypoint: Создайте кнопку в стиле Bootstrap",
       "descriptionRu": [
-        "Ниже большой фотографии котенка добавьте элемент <code>button</code> с текстом \"like this photo\" и примените к нему класс \"btn\".",
+        "Ниже большой кошачьей фотографии добавьте элемент <code>button</code> с текстом \"like this photo\" и примените к нему класс \"btn\".",
         "У Bootstrap есть собственные стили для элементов <code>button</code>, с ними они выглядят намного приятнее чем обычные HTML кнопки."
       ],
       "nameEs": "",
@@ -354,8 +354,14 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Сделайте Bootstrap кнопку блочным элементом",
+      "descriptionRu": [
+        "Добавьте к кнопке Bootstrap класс \"btn-block\".",
+        "Обычно ширина элемента <code>button</code> соответствует тексту внутри него. Но если сделать из кнопки блочный элемент, то она растянется по горизонтали на всю страницу.",
+        "Эта картинка иллюстрирует разницу между \"строчными\" и \"блочными\" элементами.",
+        "<img class='img-responsive' src='https://www.evernote.com/l/AHTFU358y71AV6mokPeuTEgrZVdUJ4A8v3AB/image.png' alt='An \"inline\" button is as small as the text it contains. In this image, it's centered. Below it is a \"block-level\" button, which stretches to fill the entire horizontal space.'>",
+        "Обратите внимание, что у кнопок по прежнему должен быть класс \"btn\"."
+      ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
