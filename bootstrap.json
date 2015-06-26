@@ -447,8 +447,12 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Оцените цвета Bootstrap кнопок",
+      "descriptionRu": [
+        "Добавьте к кнопке Bootstrap класс \"btn-primary\".",
+        "\"btn-primary\" устанавливает для кнопок яркий и заметный цвет. Это выделяет основные действия, которые вы ожидаете от пользователей.",
+        "Учтите, что у кнопки по прежнему должны присутствовать классы \"btn\" и \"btn-block\"."
+      ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
