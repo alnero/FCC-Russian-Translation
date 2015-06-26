@@ -262,8 +262,11 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Создайте кнопку в стиле Bootstrap",
+      "descriptionRu": [
+        "Ниже большой фотографии котенка добавьте элемент <code>button</code> с текстом \"like this photo\" и примените к нему класс \"btn\".",
+        "У Bootstrap есть собственные стили для элементов <code>button</code>, с ними они выглядят намного приятнее чем обычные HTML кнопки."
+      ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
