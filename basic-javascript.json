@@ -290,12 +290,12 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "Waypoint: Изучите Regular Expressions (Регулярные Выражения)",
+      "nameRu": "Waypoint: Изучите Регулярные Выражения",
       "descriptionRu": [
 	  "Вы можете использовать Регулярные Выражения, или \"Regex\", для поиска и подстановки текста.",
-        "Проверьте <a href='http://www.regexr.com' target='_blank'>http://www.regexr.com</a>. Это специальная песочница для экспериментов с Регулярными Выражениями.",
+        "Откройте эту ссылку <a href='http://www.regexr.com' target='_blank'>http://www.regexr.com</a>. Это специальная песочница для экспериментов с Регулярными Выражениями.",
         "Теперь идите сюда <a href='http://www.regexone.com' target='_blank'>http://www.regexone.com</a>.",
-        "Заметьте что вы можете нажать\"continue\" чтобы перейти к следующему шагу, как только рядом со всеми задачами появятся зелёные галочки. Вы часто можете сделать это с помощью подстановки оператора \"dot\" (точка), но попробуйте использовать рекомендованные методы урока.",
+        "Заметьте, что вы можете нажать\"continue\" чтобы перейти к следующему шагу, как только рядом со всеми задачами появятся зелёные галочки. Это часто можно сделать с помощью подстановки оператора \"dot\" (точка), но попробуйте использовать рекомендованные методы урока.",
         "Пройдите \"Complete the 15-lesson tutorial\"",
         "Пройдите \"Complete Practical Example 1: Matching a scientific or decimal number\"",
         "Пройдите \"Complete Practical Example 2: Matching phone numbers\"",
@@ -303,7 +303,7 @@
         "Пройдите \"Complete Practical Example 4: Matching HTML\"",
         "Пройдите \"Complete Practical Example 5: Matching specific filenames\"",
         "Пройдите \"Complete Practical Example 6: Trimming whitespace from start and end of line\"",
-        "После завершения этих задач, перейдем к нашей следующей Waypoint."
+        "После завершения этих задач, переходите к следующему Waypoint'у."
 	  ],
       "nameEs": "",
       "descriptionEs": [],
