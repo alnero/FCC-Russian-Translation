@@ -22,12 +22,12 @@
       "descriptionFr": [],
       "nameRu": "Waypoint: Создайте Приключенческую Игру",
       "descriptionRu": [
-        "Теперь когда вы понимаете базовые основы компьютерных наук, давайте сосредоточимся на Javascript!",
-        "В этом разделе мы будем проходить знаменитый интерактивный курс Javascript от Codecademy.",
+        "Теперь когда вы понимаете базовые основы компьютерных наук, давайте сосредоточимся на JavaScript!",
+        "В этом разделе мы будем проходить знаменитый интерактивный курс JavaScript от Codecademy.",
         "Этот курс научит нас основам JavaScript через процесс создания интересных веб-приложений, все в пределах дружественной среды Codecademy!",
         "Перейдите к <a href='http://www.codecademy.com/courses/getting-started-v2/0/1' target='_blank'>http://www.codecademy.com/courses/getting-started-v2/0/1</a> и выполните все упражнения в этом разделе.",
         "Не забудьте также пройти эту секцию: <a href='http://www.codecademy.com/courses/javascript-beginner-en-x9DnD/0/1' target='_blank'>http://www.codecademy.com/courses/javascript-beginner-en-x9DnD/0/1</a>."
-        ],
+      ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
@@ -51,10 +51,10 @@
       "descriptionFr": [],
       "nameRu": "Напишите игру Камень-Ножницы-Бумага",
       "descriptionRu": [
-		"Теперь мы узнаем как работают функции JavaScript, и используем их для создания простой игры Камень-Ножницы-Бумага.",
-		"Перейдите к <a href='http://www.codecademy.com/courses/javascript-beginner-en-6LzGd/0/1' target='_blank'>http://www.codecademy.com/courses/javascript-beginner-en-6LzGd/0/1</a> и выполните все упражнения в этом разделе.",
+		    "Теперь мы узнаем как работают функции JavaScript и используем их для создания простой игры Камень-Ножницы-Бумага.",
+		    "Перейдите к <a href='http://www.codecademy.com/courses/javascript-beginner-en-6LzGd/0/1' target='_blank'>http://www.codecademy.com/courses/javascript-beginner-en-6LzGd/0/1</a> и выполните все упражнения в этом разделе.",
         "Не забудьте также пройти эту секцию: <a href='http://www.codecademy.com/courses/javascript-beginner-en-Bthev-mskY8/0/1' target='_blank'>http://www.codecademy.com/courses/javascript-beginner-en-Bthev-mskY8/0/1</a>."
-	  ],
+	     ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
@@ -78,10 +78,10 @@
       "descriptionFr": [],
       "nameRu": "Waypoint: Изучите цикл for в JavaScript",
       "descriptionRu": [
-		"Давайте узнаем побольше о циклах, которые используются практически во всех программах - цикле for и цикле while. Начнём с цикла for.",
+		    "Давайте узнаем побольше о циклах, которые используются практически во всех программах - цикле for и цикле while. Начнём с цикла for.",
         "Перейдите к <a href='http://www.codecademy.com/courses/javascript-beginner-en-NhsaT/0/1' target='_blank'>http://www.codecademy.com/courses/javascript-beginner-en-NhsaT/0/1web</a> и выполните все упражнения в этом разделе.",
         "Не забудьте также пройти эту секцию: <a href='http://www.codecademy.com/courses/javascript-beginner-en-XEDZA/0/1' target='_blank'>http://www.codecademy.com/courses/javascript-beginner-en-XEDZA/0/1</a>."
-	  ],
+	     ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
@@ -104,9 +104,9 @@
       "descriptionFr": [],
       "nameRu": "Waypoint: Изучите цикл while в JavaScript",
       "descriptionRu": [
-		"Перейдите к <a href='http://www.codecademy.com/courses/javascript-beginner-en-ASGIv/0/1' target='_blank'>http://www.codecademy.com/courses/javascript-beginner-en-ASGIv/0/1</a> и выполните все упражнения в этом разделе.",
+		    "Перейдите к <a href='http://www.codecademy.com/courses/javascript-beginner-en-ASGIv/0/1' target='_blank'>http://www.codecademy.com/courses/javascript-beginner-en-ASGIv/0/1</a> и выполните все упражнения в этом разделе.",
         "Не забудьте также пройти эту секцию: <a href='http://www.codecademy.com/courses/javascript-beginner-en-mrTNH-6VIZ9/0/1' target='_blank'>http://www.codecademy.com/courses/javascript-beginner-en-mrTNH-6VIZ9/0/1</a>."
-	  ],
+	     ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
@@ -131,11 +131,11 @@
       "descriptionFr": [],
       "nameRu": "Waypoint: Изучите Поток Выполнения",
       "descriptionRu": [
-	"Большую часть человеческих рассуждений можно классифицировать по правилам Булевой алгебры. К счастью для нас, компьютеры \"думают\" так же! Давайте научимся инструктировать компьютеры с помощью \"If\" и \"Else\" выражений.",
+	      "Большую часть человеческих рассуждений можно классифицировать по правилам Булевой алгебры. К счастью для нас, компьютеры \"думают\" так же! Давайте научимся инструктировать компьютеры с помощью \"If\" и \"Else\" выражений.",
         "Мы также узнаем о дополнительных правилах управления потоком выполнения, например способам досрочно прервать исполнение цикла.",
         "Перейдите к <a href='http://www.codecademy.com/courses/javascript-beginner-en-qDwp0/0/1' target='_blank'>http://www.codecademy.com/courses/javascript-beginner-en-qDwp0/0/1</a> и выполните все упражнения в этом разделе.",
         "Не забудьте также пройти эту секцию: <a href='http://www.codecademy.com/courses/javascript-beginner-en-ZA2rb/0/1' target='_blank'>http://www.codecademy.com/courses/javascript-beginner-en-ZA2rb/0/1</a>."
-	  ],
+	    ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
@@ -159,10 +159,10 @@
       "descriptionFr": [],
       "nameRu": "Waypoint: Создайте Список Контактов",
       "descriptionRu": [
-	"До этого момента вы работали в основном с числами и строками. Теперь мы перейдем к более сложным структурам данных: массивам - \"Arrays\" и объектам - \"Objects\".",
+	      "До этого момента вы работали в основном с числами и строками. Теперь мы перейдем к более сложным структурам данных: массивам - \"Arrays\" и объектам - \"Objects\".",
         "Перейдите к <a href='http://www.codecademy.com/courses/javascript-beginner-en-9Sgpi/0/1' target='_blank'>http://www.codecademy.com/courses/javascript-beginner-en-9Sgpi/0/1</a> и выполните все упражнения в этом разделе.",
         "Не забудьте также пройти эту секцию: <a href='http://www.codecademy.com/courses/javascript-beginner-en-3bmfN/0/1' target='_blank'>http://www.codecademy.com/courses/javascript-beginner-en-3bmfN/0/1</a>."
-	  ],
+	    ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
@@ -186,10 +186,10 @@
       "descriptionFr": [],
       "nameRu": "Waypoint: Создайте Адресную Книгу",
       "descriptionRu": [
-		"Давайте узнаем побольше об объектах.",
+		    "Давайте узнаем побольше об объектах.",
         "Перейдите к <a href='http://www.codecademy.com/courses/spencer-sandbox/0/1' target='_blank'>http://www.codecademy.com/courses/spencer-sandbox/0/1</a> и выполните все упражнения в этом разделе.",
         "Не забудьте также пройти эту секцию: <a href='http://www.codecademy.com/courses/building-an-address-book/0/1?curriculum_id=506324b3a7dffd00020bf661' target='_blank'>http://www.codecademy.com/courses/building-an-address-book/0/1?curriculum_id=506324b3a7dffd00020bf661</a>."
-	  ],
+	    ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
@@ -213,10 +213,10 @@
       "descriptionFr": [],
       "nameRu": "Waypoint: Создайте Кассовый Аппарат",
       "descriptionRu": [
-		"В этом заключительном разделе Codecademy, мы узнаем еще больше об объектах JavaScript.",
+		    "В этом заключительном разделе Codecademy, мы узнаем еще больше об объектах JavaScript.",
         "Перейдите к <a href='http://www.codecademy.com/courses/objects-ii/0/1' target='_blank'>http://www.codecademy.com/courses/objects-ii/0/1</a> и выполните все упражнения в этом разделе.",
         "Не забудьте также пройти эту секцию: <a href='http://www.codecademy.com/courses/close-the-super-makert/0/1' target='_blank'>http://www.codecademy.com/courses/close-the-super-makert/0/1</a>."
-	  ],
+	    ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
@@ -248,7 +248,7 @@
       "descriptionFr": [],
       "nameRu": "Waypoint: Откройте для себя Chrome DevTools",
       "descriptionRu": [
-	"Теперь настало время изучить самый мощный инструмент в вашем браузере - Chrome DevTools!",
+	      "Теперь настало время изучить самый мощный инструмент в вашем браузере - Chrome DevTools!",
         "Если вы не пользуетесь браузером Chrome, то скачайте его отсюда: http://www.google.com/chrome/. Хотя у браузера Firefox есть инструмент Firebug, который очень похож на Chrome DevTools, в этом задании мы будем использовать Chrome.",
         "Обратите внимание что этот курс, результат совместного производства Google и Code School, технологически впечатляет но иногда глючит. Если вы столкнулись с багом, проигнорируйте его и проходите курс дальше.",
         "Перейдите к <a href='http://discover-devtools.codeschool.com' target='_blank'>http://discover-devtools.codeschool.com</a>.",
@@ -259,7 +259,7 @@
         "Пройдите \"Chapter 5: Improving Network Performance\".",
         "Пройдите \"Chapter 6: Improving Performance\".",
         "Пройдите \"Chapter 7: Memory Profiling\"."
-		],
+		  ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
@@ -292,7 +292,7 @@
       "descriptionFr": [],
       "nameRu": "Waypoint: Изучите Регулярные Выражения",
       "descriptionRu": [
-	  "Вы можете использовать Регулярные Выражения, или \"Regex\", для поиска и подстановки текста.",
+	      "Вы можете использовать Регулярные Выражения, или \"Regex\", для поиска и подстановки текста.",
         "Откройте эту ссылку <a href='http://www.regexr.com' target='_blank'>http://www.regexr.com</a>. Это специальная песочница для экспериментов с Регулярными Выражениями.",
         "Теперь идите сюда <a href='http://www.regexone.com' target='_blank'>http://www.regexone.com</a>.",
         "Заметьте, что вы можете нажать\"continue\" чтобы перейти к следующему шагу, как только рядом со всеми задачами появятся зелёные галочки. Это часто можно сделать с помощью подстановки оператора \"dot\" (точка), но попробуйте использовать рекомендованные методы урока.",
@@ -303,8 +303,8 @@
         "Пройдите \"Complete Practical Example 4: Matching HTML\"",
         "Пройдите \"Complete Practical Example 5: Matching specific filenames\"",
         "Пройдите \"Complete Practical Example 6: Trimming whitespace from start and end of line\"",
-        "После завершения этих задач, переходите к следующему Waypoint'у."
-	  ],
+        "После завершения этих задач переходите к следующему Waypoint'у."
+	    ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
