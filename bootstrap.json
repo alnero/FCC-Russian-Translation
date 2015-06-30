@@ -838,8 +838,12 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Перейдите от нестандартных стилей к Bootstrap",
+      "descriptionRu": [
+        "Удалите из элемента <code>style</code> следующие CSS правила: \".red-text\", \"p\", и \".smaller-image\", внутри элемента должны остаться только \"h2\" и \"thick-green-border\". Удалите элемент <code>p</code>, содержащий мертвую ссылку. В элементе <code>h2</code> замените класс \"red-text\" на Bootstrap класс \"text-primary\". И наконец, для первого изображения замените класс \"smaller-image\" классом <code>img-responsive</code>.",
+        "Использование стандартных стилей Bootstrap делает код чище, при этом вид приложения Cat Photo App становится более привычным.",
+        "Не волнуйтесь, позже еще будет много возможностей самостоятельно оформить CSS."
+      ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
