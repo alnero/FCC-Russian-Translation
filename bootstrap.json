@@ -1416,8 +1416,11 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Добавьте стиль текстовому полю внутри формы",
+      "descriptionRu": [
+        "Добавьте к текстовому полю внутри формы класс \"form-control\". Добавьте к кнопке Submit классы \"btn btn-primary\", а также иконку \"fa-paper-plane\" из коллекции Font Awesome.",
+        "Чтобы добавить к кнопке Submit иконку \"fa-paper-plane\" из коллекции Font Awesome, поместите внутрь нее следующий код: <code>&#60;i class=\"fa fa-paper-plane\"&#62;&#60;/i&#62;</code>."
+      ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
