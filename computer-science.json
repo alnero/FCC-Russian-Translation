@@ -20,8 +20,13 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Изучите основы компьютерных наук",
+      "descriptionRu": [
+        "У Стэнфордского университета есть прекрасный бесплатный онлайн курс по компьютерным наукам. Курс интерактивный и использует модифицированную версию JavaScript. С его помощью вы быстро получите общее представление о предмете.",
+        "Гарвард тоже может познакомить вас с компьютерными науками в своем курсе CS50, но на его прохождение потребуется более 100 часов и JavaScript в нем не используется.",
+        "Несмотря на то что Стэнфордский курс CS101 можно проходить в произвольном темпе, он все равно разбит на недели. Каждое следующее задание будет относиться к одной из них.",
+        "Перейдите по этой ссылке <a href='https://class.stanford.edu/courses/Engineering/CS101/Summer2014/courseware/z54/z1/' target='_blank'>https://class.stanford.edu/courses/Engineering/CS101/Summer2014/courseware/z54/z1/</a> и освойте материалы первой недели."
+      ],
       "nameEs": "Waypoint: Aprende Informática Básica",
       "descriptionEs": [
         "Stanford tiene en internet un excelente currículo gratuito sobre Informática. Este curso interactivo utiliza una versión modificada de JavaScript. En él se cubrirán varios conceptos rápidamente.",
