@@ -86,8 +86,12 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Изучите аппаратное обеспечение компьютера",
+      "descriptionRu": [
+        "Третья неделя рассказывает об аппаратном обеспечении и законе Мура(эмпирический закон экспоненциального роста производительности электронных систем во времени).",
+        "Также в этой части вы узнаете как работают биты и байты.",
+        "Пройдите материалы третьей недели, они находятся здесь: <a href='https://class.stanford.edu/courses/Engineering/CS101/Summer2014/courseware/z143/z101/' target='_blank'>https://class.stanford.edu/courses/Engineering/CS101/Summer2014/courseware/z143/z101/</a>"
+      ],
       "nameEs": "Waypoint: Aprende sobre el Hardware de las Computadoras",
       "descriptionEs": [
         "La semana 3 del curso de Introducción a Informática de Stanford cubrirá el hardware de las computadoras y explicará la ley de Moore sobre el crecimiento exponencial del precio-desempeño de los procesadores.",
