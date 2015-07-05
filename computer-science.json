@@ -54,8 +54,12 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Изучите циклы",
+      "descriptionRu": [
+        "Приступим ко второй неделе Стэнфордского курса.",
+        "Она познакомит нас с циклами - фундаментальным элементом, присутствующим в каждом языке программирования.",
+        "Пройдите материалы второй недели, они доступны по этой ссылке: <a href='https://class.stanford.edu/courses/Engineering/CS101/Summer2014/courseware/z100/a7a70ce6e4724c58862ee6007284face/' target='_blank'>https://class.stanford.edu/courses/Engineering/CS101/Summer2014/courseware/z100/a7a70ce6e4724c58862ee6007284face/</a>"
+      ],
       "nameEs": "Waypoint: Aprende Loops",
       "descriptionEs": [
         "Ahora apuntaremos a completar la semana 2 del curso de Introducción a Informática de Stanford.",
