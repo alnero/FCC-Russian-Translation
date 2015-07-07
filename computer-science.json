@@ -118,8 +118,12 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Изучите компьютерные сети",
+      "descriptionRu": [
+        "Теперь, когда вы знаете о компьютерных комплектующих, посмотрим на программное обеспечение, которое их использует.",
+        "Особенно важно, что вы познакомитесь с компьютерными сетями и TCP/IP - протоколом обеспечивающим работу Интернета.",
+        "Пройдите материалы четвертой недели, они доступны по ссылке: <a href='https://class.stanford.edu/courses/Engineering/CS101/Summer2014/courseware/z187/z144/' target='_blank'>https://class.stanford.edu/courses/Engineering/CS101/Summer2014/courseware/z187/z144/</a>"
+      ],
       "nameEs": "Waypoint: Aprende sobre Redes de Computadoras",
       "descriptionEs": [
         "Ahora que ya hemos aprendido sobre hardware, es hora de aprender sobre el software que corre encima de él.",
