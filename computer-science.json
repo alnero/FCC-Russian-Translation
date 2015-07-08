@@ -25,7 +25,7 @@
         "У Стэнфордского университета есть прекрасный бесплатный онлайн курс по компьютерным наукам. Курс интерактивный и использует модифицированную версию JavaScript. С его помощью вы быстро получите общее представление о предмете.",
         "Гарвард тоже может познакомить вас с компьютерными науками в своем курсе CS50, но на его прохождение потребуется более 100 часов и JavaScript в нем не используется.",
         "Несмотря на то что Стэнфордский курс CS101 можно проходить в произвольном темпе, он все равно разбит на недели. Каждое следующее задание будет относиться к одной из них.",
-        "Перейдите по этой ссылке <a href='https://class.stanford.edu/courses/Engineering/CS101/Summer2014/courseware/z54/z1/' target='_blank'>https://class.stanford.edu/courses/Engineering/CS101/Summer2014/courseware/z54/z1/</a> и освойте материалы первой недели."
+        "Пройдите по этой ссылке <a href='https://class.stanford.edu/courses/Engineering/CS101/Summer2014/courseware/z54/z1/' target='_blank'>https://class.stanford.edu/courses/Engineering/CS101/Summer2014/courseware/z54/z1/</a> и освойте материалы первой недели."
       ],
       "nameEs": "Waypoint: Aprende Informática Básica",
       "descriptionEs": [
@@ -150,8 +150,12 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Изучите Булеву алгебру",
+      "descriptionRu": [
+        "В этой части курса пройдем еще несколько упражнений с таблицами и изучим Булеву алгебру.",
+        "А также узнаем про отличия между цифровыми и аналоговыми данными.",
+        "Пройдите по этой ссылке: <a href='https://class.stanford.edu/courses/Engineering/CS101/Summer2014/courseware/z208/z188/' target='_blank'>https://class.stanford.edu/courses/Engineering/CS101/Summer2014/courseware/z208/z188/</a> и освойте материалы пятой недели."
+      ],
       "nameEs": "Waypoint: Aprende Lógica Booleana",
       "descriptionEs": [
         "Ahora trabajaremos más ejercicios de tablas y aprenderemos lógica booleana.",
