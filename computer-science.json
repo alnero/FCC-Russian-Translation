@@ -183,8 +183,13 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Waypoint: Научитесь компьютерной безопасности",
+      "descriptionRu": [
+        "Мы практически закончили Стэнфордский курс по компьютерным наукам!",
+        "В последней части мы узнаем о важном изобретении ХХ века - электронных таблицах.",
+        "А также получим представление о компьютерной безопасности и ширико распространенных уязвимостях, присутствующих в программном обеспечении.",
+        "Пройдите материалы шестой, последней, недели курса: <a href='https://class.stanford.edu/courses/Engineering/CS101/Summer2014/courseware/z229/z213/' target='_blank'>https://class.stanford.edu/courses/Engineering/CS101/Summer2014/courseware/z229/z213/</a>"
+      ],
       "nameEs": "Waypoint: Aprende sobre Seguridad Informática",
       "descriptionEs": [
         "¡Ya casi completamos el curso de Introducción a la Informática!",
