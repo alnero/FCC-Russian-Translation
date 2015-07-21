@@ -711,8 +711,11 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Bonfire: Найдите объекты",
+      "descriptionRu": [
+        "Напишите функцию, которая проходит по списку (первый аргумент) и возвращает массив всех объектов у которых значение свойства равно указанному (второй аргумент).",
+        "Если вдруг застрянете, воспользуйтесь <a href='/field-guide/how-do-i-get-help-when-I-get-stuck' target='_blank'>RSAP</a>. Попробуйте парное программирование или напишите свой собственный код."
+      ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
