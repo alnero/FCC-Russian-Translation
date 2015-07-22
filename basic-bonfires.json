@@ -1120,8 +1120,12 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Bonfire: Пропавшие буквы",
+      "descriptionRu": [
+        "Найдите в последовательности недостающую букву и верните ее.",
+        "Если в последовательности есть все буквы, верните undefined.",
+        "Если вдруг застрянете, воспользуйтесь <a href='/field-guide/how-do-i-get-help-when-I-get-stuck' target='_blank'>RSAP</a>. Попробуйте парное программирование или напишите свой собственный код."
+      ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
