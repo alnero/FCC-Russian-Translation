@@ -933,8 +933,12 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Bonfire: Преобразователь в римские цифры",
+      "descriptionRu": [
+        "Конвертируйте переданное число из десятичной системы счисления в римскую.",
+        "Все возвращаемые <a href=\"http://www.mathsisfun.com/roman-numerals.html\">римские цифры</a> должны быть в верхнем регистре.",
+        "Если вдруг застрянете, воспользуйтесь <a href='/field-guide/how-do-i-get-help-when-I-get-stuck' target='_blank'>RSAP</a>. Попробуйте парное программирование или напишите свой собственный код."
+      ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
