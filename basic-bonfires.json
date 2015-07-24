@@ -1472,8 +1472,11 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Bonfire: Искатель хранитель",
+      "descriptionRu": [
+        "Напишите функцию, которая просматривает массив (первый аргумент) и возвращает первый элемент, который проходит проверку истинности (второй аргумент).",
+        "Если вдруг застрянете, воспользуйтесь <a href='/field-guide/how-do-i-get-help-when-I-get-stuck' target='_blank'>RSAP</a>. Попробуйте парное программирование или напишите свой собственный код."
+      ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
