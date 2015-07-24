@@ -1513,8 +1513,11 @@
       "descriptionCn": [],
       "nameFr": "",
       "descriptionFr": [],
-      "nameRu": "",
-      "descriptionRu": [],
+      "nameRu": "Bonfire: Отбросьте элементы",
+      "descriptionRu": [
+        "Удаляйте элементы из начала массива (первый аргумент), до тех пор пока предикат (второй аргумент) не вернет true.",
+        "Если вдруг застрянете, воспользуйтесь <a href='/field-guide/how-do-i-get-help-when-I-get-stuck' target='_blank'>RSAP</a>. Попробуйте парное программирование или напишите свой собственный код."
+      ],
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
